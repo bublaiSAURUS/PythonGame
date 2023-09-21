@@ -1,3 +1,3 @@
-# COMP16321-Labs
+# COMP16321-Python Game Coursework
 
-This is the repository that you submit your labs to.
+Simple 2D Python Game. Make the bird fly while dodging obstacles.
